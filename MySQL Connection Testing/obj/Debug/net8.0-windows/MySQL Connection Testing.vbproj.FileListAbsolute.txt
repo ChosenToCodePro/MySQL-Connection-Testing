@@ -1,0 +1,31 @@
+D:\DevFiles\IDE\Rider Projects\MySQL Connection Testing\MySQL Connection Testing\bin\Debug\net8.0-windows\MySQL Connection Testing.exe
+D:\DevFiles\IDE\Rider Projects\MySQL Connection Testing\MySQL Connection Testing\bin\Debug\net8.0-windows\MySQL Connection Testing.deps.json
+D:\DevFiles\IDE\Rider Projects\MySQL Connection Testing\MySQL Connection Testing\bin\Debug\net8.0-windows\MySQL Connection Testing.runtimeconfig.json
+D:\DevFiles\IDE\Rider Projects\MySQL Connection Testing\MySQL Connection Testing\bin\Debug\net8.0-windows\MySQL Connection Testing.dll
+D:\DevFiles\IDE\Rider Projects\MySQL Connection Testing\MySQL Connection Testing\bin\Debug\net8.0-windows\MySQL Connection Testing.pdb
+D:\DevFiles\IDE\Rider Projects\MySQL Connection Testing\MySQL Connection Testing\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+D:\DevFiles\IDE\Rider Projects\MySQL Connection Testing\MySQL Connection Testing\bin\Debug\net8.0-windows\Google.Protobuf.dll
+D:\DevFiles\IDE\Rider Projects\MySQL Connection Testing\MySQL Connection Testing\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+D:\DevFiles\IDE\Rider Projects\MySQL Connection Testing\MySQL Connection Testing\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+D:\DevFiles\IDE\Rider Projects\MySQL Connection Testing\MySQL Connection Testing\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+D:\DevFiles\IDE\Rider Projects\MySQL Connection Testing\MySQL Connection Testing\bin\Debug\net8.0-windows\MySql.Data.dll
+D:\DevFiles\IDE\Rider Projects\MySQL Connection Testing\MySQL Connection Testing\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+D:\DevFiles\IDE\Rider Projects\MySQL Connection Testing\MySQL Connection Testing\bin\Debug\net8.0-windows\ZstdSharp.dll
+D:\DevFiles\IDE\Rider Projects\MySQL Connection Testing\MySQL Connection Testing\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+D:\DevFiles\IDE\Rider Projects\MySQL Connection Testing\MySQL Connection Testing\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+D:\DevFiles\IDE\Rider Projects\MySQL Connection Testing\MySQL Connection Testing\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+D:\DevFiles\IDE\Rider Projects\MySQL Connection Testing\MySQL Connection Testing\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+D:\DevFiles\IDE\Rider Projects\MySQL Connection Testing\MySQL Connection Testing\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+D:\DevFiles\IDE\Rider Projects\MySQL Connection Testing\MySQL Connection Testing\obj\Debug\net8.0-windows\MySQL Connection Testing.vbproj.AssemblyReference.cache
+D:\DevFiles\IDE\Rider Projects\MySQL Connection Testing\MySQL Connection Testing\obj\Debug\net8.0-windows\MySQL_Connection_Testing.Form1.resources
+D:\DevFiles\IDE\Rider Projects\MySQL Connection Testing\MySQL Connection Testing\obj\Debug\net8.0-windows\MySQL Connection Testing.vbproj.GenerateResource.cache
+D:\DevFiles\IDE\Rider Projects\MySQL Connection Testing\MySQL Connection Testing\obj\Debug\net8.0-windows\MySQL Connection Testing.GeneratedMSBuildEditorConfig.editorconfig
+D:\DevFiles\IDE\Rider Projects\MySQL Connection Testing\MySQL Connection Testing\obj\Debug\net8.0-windows\MySQL Connection Testing.AssemblyInfoInputs.cache
+D:\DevFiles\IDE\Rider Projects\MySQL Connection Testing\MySQL Connection Testing\obj\Debug\net8.0-windows\MySQL Connection Testing.AssemblyInfo.vb
+D:\DevFiles\IDE\Rider Projects\MySQL Connection Testing\MySQL Connection Testing\obj\Debug\net8.0-windows\MySQL Connection Testing.vbproj.CoreCompileInputs.cache
+D:\DevFiles\IDE\Rider Projects\MySQL Connection Testing\MySQL Connection Testing\obj\Debug\net8.0-windows\MySQL Co.0F18D3C2.Up2Date
+D:\DevFiles\IDE\Rider Projects\MySQL Connection Testing\MySQL Connection Testing\obj\Debug\net8.0-windows\MySQL Connection Testing.dll
+D:\DevFiles\IDE\Rider Projects\MySQL Connection Testing\MySQL Connection Testing\obj\Debug\net8.0-windows\refint\MySQL Connection Testing.dll
+D:\DevFiles\IDE\Rider Projects\MySQL Connection Testing\MySQL Connection Testing\obj\Debug\net8.0-windows\MySQL Connection Testing.pdb
+D:\DevFiles\IDE\Rider Projects\MySQL Connection Testing\MySQL Connection Testing\obj\Debug\net8.0-windows\MySQL Connection Testing.genruntimeconfig.cache
+D:\DevFiles\IDE\Rider Projects\MySQL Connection Testing\MySQL Connection Testing\obj\Debug\net8.0-windows\ref\MySQL Connection Testing.dll
