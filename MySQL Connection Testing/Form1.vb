@@ -2,7 +2,6 @@
 
 Public Class Form1
     Dim c As MySqlConnection
-    Dim cmd As MySqlCommand
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
         c = New MySqlConnection
         c.ConnectionString = "server=127.0.0.1;userid=ChosenProSQLX;password='#Ndrdaoi13';database=chinookemc"
