@@ -14,6 +14,6 @@ build_property.PlatformNeutralAssembly =
 build_property.EnforceExtendedAnalyzerRules = 
 build_property._SupportedPlatformList = Linux,macOS,Windows
 build_property.RootNamespace = MySQL_Connection_Testing
-build_property.ProjectDir = D:\DevFiles\IDE\Rider Projects\MySQL Connection Testing\MySQL Connection Testing\
+build_property.ProjectDir = C:\Users\ITECC052024\source\repos\MySQL-Connection-Testing\MySQL Connection Testing\
 build_property.EnableComHosting = 
 build_property.EnableGeneratedComInterfaceComImportInterop = 
