@@ -27,17 +27,23 @@ Partial Class Form2
         Label2 = New Label()
         Label3 = New Label()
         Label4 = New Label()
-        TextBox1 = New TextBox()
-        TextBox2 = New TextBox()
-        TextBox3 = New TextBox()
-        TextBox4 = New TextBox()
+        TB_EID = New TextBox()
+        TB_Name = New TextBox()
+        TB_Surname = New TextBox()
+        TB_Age = New TextBox()
+        Btn_Edit = New Button()
+        Btn_Save = New Button()
+        Btn_Delete = New Button()
+        NameListDrop = New ComboBox()
+        NameListBox = New ListBox()
         SuspendLayout()
         ' 
         ' Button1
         ' 
-        Button1.Location = New Point(8, 7)
+        Button1.Font = New Font("Poppins", 9F)
+        Button1.Location = New Point(12, 12)
         Button1.Name = "Button1"
-        Button1.Size = New Size(107, 23)
+        Button1.Size = New Size(107, 27)
         Button1.TabIndex = 0
         Button1.Text = "Sign Out"
         Button1.UseVisualStyleBackColor = True
@@ -45,87 +51,145 @@ Partial Class Form2
         ' Label1
         ' 
         Label1.AutoSize = True
-        Label1.Font = New Font("Segoe UI", 11.25F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
-        Label1.Location = New Point(87, 104)
+        Label1.Font = New Font("Poppins", 9F)
+        Label1.Location = New Point(25, 79)
         Label1.Name = "Label1"
-        Label1.Size = New Size(38, 20)
+        Label1.Size = New Size(34, 22)
         Label1.TabIndex = 1
         Label1.Text = "E-ID"
         ' 
         ' Label2
         ' 
         Label2.AutoSize = True
-        Label2.Font = New Font("Segoe UI", 11.25F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
-        Label2.Location = New Point(87, 133)
+        Label2.Font = New Font("Poppins", 9F)
+        Label2.Location = New Point(25, 108)
         Label2.Name = "Label2"
-        Label2.Size = New Size(49, 20)
+        Label2.Size = New Size(45, 22)
         Label2.TabIndex = 2
         Label2.Text = "Name"
         ' 
         ' Label3
         ' 
         Label3.AutoSize = True
-        Label3.Font = New Font("Segoe UI", 11.25F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
-        Label3.Location = New Point(87, 162)
+        Label3.Font = New Font("Poppins", 9F)
+        Label3.Location = New Point(25, 137)
         Label3.Name = "Label3"
-        Label3.Size = New Size(67, 20)
+        Label3.Size = New Size(64, 22)
         Label3.TabIndex = 3
         Label3.Text = "Surname"
         ' 
         ' Label4
         ' 
         Label4.AutoSize = True
-        Label4.Font = New Font("Segoe UI", 11.25F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
-        Label4.Location = New Point(87, 191)
+        Label4.Font = New Font("Poppins", 9F)
+        Label4.Location = New Point(25, 166)
         Label4.Name = "Label4"
-        Label4.Size = New Size(36, 20)
+        Label4.Size = New Size(33, 22)
         Label4.TabIndex = 4
         Label4.Text = "Age"
         ' 
-        ' TextBox1
+        ' TB_EID
         ' 
-        TextBox1.Location = New Point(160, 101)
-        TextBox1.Name = "TextBox1"
-        TextBox1.Size = New Size(158, 23)
-        TextBox1.TabIndex = 5
+        TB_EID.Font = New Font("Poppins", 9F)
+        TB_EID.Location = New Point(112, 76)
+        TB_EID.Name = "TB_EID"
+        TB_EID.Size = New Size(158, 25)
+        TB_EID.TabIndex = 5
         ' 
-        ' TextBox2
+        ' TB_Name
         ' 
-        TextBox2.Location = New Point(160, 130)
-        TextBox2.Name = "TextBox2"
-        TextBox2.Size = New Size(158, 23)
-        TextBox2.TabIndex = 6
+        TB_Name.Font = New Font("Poppins", 9F)
+        TB_Name.Location = New Point(112, 105)
+        TB_Name.Name = "TB_Name"
+        TB_Name.Size = New Size(158, 25)
+        TB_Name.TabIndex = 6
         ' 
-        ' TextBox3
+        ' TB_Surname
         ' 
-        TextBox3.Location = New Point(160, 163)
-        TextBox3.Name = "TextBox3"
-        TextBox3.Size = New Size(158, 23)
-        TextBox3.TabIndex = 7
+        TB_Surname.Font = New Font("Poppins", 9F)
+        TB_Surname.Location = New Point(112, 138)
+        TB_Surname.Name = "TB_Surname"
+        TB_Surname.Size = New Size(158, 25)
+        TB_Surname.TabIndex = 7
         ' 
-        ' TextBox4
+        ' TB_Age
         ' 
-        TextBox4.Location = New Point(160, 192)
-        TextBox4.Name = "TextBox4"
-        TextBox4.Size = New Size(158, 23)
-        TextBox4.TabIndex = 8
+        TB_Age.Font = New Font("Poppins", 9F)
+        TB_Age.Location = New Point(112, 167)
+        TB_Age.Name = "TB_Age"
+        TB_Age.Size = New Size(158, 25)
+        TB_Age.TabIndex = 8
+        ' 
+        ' Btn_Edit
+        ' 
+        Btn_Edit.Font = New Font("Poppins", 9F)
+        Btn_Edit.Location = New Point(199, 215)
+        Btn_Edit.Name = "Btn_Edit"
+        Btn_Edit.Size = New Size(71, 29)
+        Btn_Edit.TabIndex = 9
+        Btn_Edit.Text = "Edit"
+        Btn_Edit.UseVisualStyleBackColor = True
+        ' 
+        ' Btn_Save
+        ' 
+        Btn_Save.Font = New Font("Poppins", 9F)
+        Btn_Save.Location = New Point(112, 215)
+        Btn_Save.Name = "Btn_Save"
+        Btn_Save.Size = New Size(71, 29)
+        Btn_Save.TabIndex = 10
+        Btn_Save.Text = "Save"
+        Btn_Save.UseVisualStyleBackColor = True
+        ' 
+        ' Btn_Delete
+        ' 
+        Btn_Delete.Font = New Font("Poppins", 9F)
+        Btn_Delete.Location = New Point(288, 305)
+        Btn_Delete.Name = "Btn_Delete"
+        Btn_Delete.Size = New Size(87, 29)
+        Btn_Delete.TabIndex = 11
+        Btn_Delete.Text = "Delete"
+        Btn_Delete.UseVisualStyleBackColor = True
+        ' 
+        ' NameListDrop
+        ' 
+        NameListDrop.Font = New Font("Poppins", 9F)
+        NameListDrop.FormattingEnabled = True
+        NameListDrop.Location = New Point(113, 304)
+        NameListDrop.Name = "NameListDrop"
+        NameListDrop.Size = New Size(158, 30)
+        NameListDrop.TabIndex = 12
+        ' 
+        ' NameListBox
+        ' 
+        NameListBox.Font = New Font("Poppins", 9F)
+        NameListBox.FormattingEnabled = True
+        NameListBox.ItemHeight = 22
+        NameListBox.Location = New Point(288, 69)
+        NameListBox.Name = "NameListBox"
+        NameListBox.Size = New Size(215, 202)
+        NameListBox.TabIndex = 13
         ' 
         ' Form2
         ' 
         AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
-        ClientSize = New Size(652, 450)
-        Controls.Add(TextBox4)
-        Controls.Add(TextBox3)
-        Controls.Add(TextBox2)
-        Controls.Add(TextBox1)
+        ClientSize = New Size(529, 372)
+        Controls.Add(NameListBox)
+        Controls.Add(NameListDrop)
+        Controls.Add(Btn_Delete)
+        Controls.Add(Btn_Save)
+        Controls.Add(Btn_Edit)
+        Controls.Add(TB_Age)
+        Controls.Add(TB_Surname)
+        Controls.Add(TB_Name)
+        Controls.Add(TB_EID)
         Controls.Add(Label4)
         Controls.Add(Label3)
         Controls.Add(Label2)
         Controls.Add(Label1)
         Controls.Add(Button1)
         Name = "Form2"
-        Text = "Form2"
+        Text = "Database Main"
         ResumeLayout(False)
         PerformLayout()
     End Sub
@@ -135,8 +199,13 @@ Partial Class Form2
     Friend WithEvents Label2 As Label
     Friend WithEvents Label3 As Label
     Friend WithEvents Label4 As Label
-    Friend WithEvents TextBox1 As TextBox
-    Friend WithEvents TextBox2 As TextBox
-    Friend WithEvents TextBox3 As TextBox
-    Friend WithEvents TextBox4 As TextBox
+    Friend WithEvents TB_EID As TextBox
+    Friend WithEvents TB_Name As TextBox
+    Friend WithEvents TB_Surname As TextBox
+    Friend WithEvents TB_Age As TextBox
+    Friend WithEvents Btn_Edit As Button
+    Friend WithEvents Btn_Save As Button
+    Friend WithEvents Btn_Delete As Button
+    Friend WithEvents NameListDrop As ComboBox
+    Friend WithEvents NameListBox As ListBox
 End Class

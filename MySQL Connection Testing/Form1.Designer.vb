@@ -22,89 +22,145 @@ Partial Class Form1
     'Do not modify it using the code editor.
     <System.Diagnostics.DebuggerStepThrough()>
     Private Sub InitializeComponent()
-        Button1 = New Button()
+        ConnectionTest = New Button()
         Label1 = New Label()
         Label2 = New Label()
         username = New TextBox()
         password = New TextBox()
-        Button2 = New Button()
+        LogIn = New Button()
+        Label3 = New Label()
+        Label4 = New Label()
+        database = New TextBox()
+        FinishSession = New Button()
         SuspendLayout()
         ' 
-        ' Button1
+        ' ConnectionTest
         ' 
-        Button1.Location = New Point(12, 12)
-        Button1.Name = "Button1"
-        Button1.Size = New Size(106, 23)
-        Button1.TabIndex = 0
-        Button1.Text = "Test Connection"
-        Button1.UseVisualStyleBackColor = True
+        ConnectionTest.Font = New Font("Poppins", 9F)
+        ConnectionTest.Location = New Point(37, 250)
+        ConnectionTest.Name = "ConnectionTest"
+        ConnectionTest.Size = New Size(136, 34)
+        ConnectionTest.TabIndex = 0
+        ConnectionTest.Text = "Test Connection"
+        ConnectionTest.UseVisualStyleBackColor = True
         ' 
         ' Label1
         ' 
         Label1.AutoSize = True
-        Label1.Font = New Font("Segoe UI", 11.25F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
-        Label1.Location = New Point(48, 106)
+        Label1.Font = New Font("Poppins", 9F)
+        Label1.Location = New Point(68, 27)
         Label1.Name = "Label1"
-        Label1.Size = New Size(75, 20)
+        Label1.Size = New Size(70, 22)
         Label1.TabIndex = 1
         Label1.Text = "Username"
         ' 
         ' Label2
         ' 
         Label2.AutoSize = True
-        Label2.Font = New Font("Segoe UI", 11.25F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
-        Label2.Location = New Point(53, 135)
+        Label2.Font = New Font("Poppins", 9F)
+        Label2.Location = New Point(68, 80)
         Label2.Name = "Label2"
-        Label2.Size = New Size(70, 20)
+        Label2.Size = New Size(67, 22)
         Label2.TabIndex = 2
         Label2.Text = "Password"
         ' 
         ' username
         ' 
-        username.Location = New Point(146, 103)
+        username.Font = New Font("Poppins", 9F)
+        username.Location = New Point(92, 52)
         username.Name = "username"
-        username.Size = New Size(172, 23)
+        username.Size = New Size(172, 25)
         username.TabIndex = 3
         ' 
         ' password
         ' 
-        password.Location = New Point(146, 132)
+        password.Font = New Font("Poppins", 9F)
+        password.Location = New Point(92, 105)
         password.Name = "password"
-        password.PasswordChar = "*"c
-        password.Size = New Size(172, 23)
+        password.PasswordChar = "•"c
+        password.Size = New Size(172, 25)
         password.TabIndex = 4
         ' 
-        ' Button2
+        ' LogIn
         ' 
-        Button2.Enabled = False
-        Button2.Location = New Point(104, 188)
-        Button2.Name = "Button2"
-        Button2.Size = New Size(138, 34)
-        Button2.TabIndex = 5
-        Button2.Text = "Log In"
-        Button2.UseVisualStyleBackColor = True
+        LogIn.Enabled = False
+        LogIn.Font = New Font("Poppins", 9F, FontStyle.Regular, GraphicsUnit.Point, CByte(0))
+        LogIn.Location = New Point(37, 290)
+        LogIn.Name = "LogIn"
+        LogIn.Size = New Size(280, 34)
+        LogIn.TabIndex = 5
+        LogIn.Text = "Log In"
+        LogIn.UseVisualStyleBackColor = True
+        ' 
+        ' Label3
+        ' 
+        Label3.AutoSize = True
+        Label3.Font = New Font("Poppins", 9F)
+        Label3.ForeColor = Color.Gray
+        Label3.Location = New Point(37, 225)
+        Label3.Name = "Label3"
+        Label3.Size = New Size(280, 22)
+        Label3.TabIndex = 6
+        Label3.Text = "Test connection first before Log In is Available."
+        ' 
+        ' Label4
+        ' 
+        Label4.AutoSize = True
+        Label4.Font = New Font("Poppins", 9F)
+        Label4.Location = New Point(68, 161)
+        Label4.Name = "Label4"
+        Label4.Size = New Size(67, 22)
+        Label4.TabIndex = 7
+        Label4.Text = "Database"
+        ' 
+        ' database
+        ' 
+        database.AllowDrop = True
+        database.Font = New Font("Poppins", 9F)
+        database.Location = New Point(92, 186)
+        database.Name = "database"
+        database.Size = New Size(172, 25)
+        database.TabIndex = 8
+        ' 
+        ' FinishSession
+        ' 
+        FinishSession.Font = New Font("Poppins", 9F)
+        FinishSession.Location = New Point(179, 251)
+        FinishSession.Name = "FinishSession"
+        FinishSession.Size = New Size(138, 34)
+        FinishSession.TabIndex = 9
+        FinishSession.Text = "End Session"
+        FinishSession.UseVisualStyleBackColor = True
         ' 
         ' Form1
         ' 
         AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
-        ClientSize = New Size(359, 309)
-        Controls.Add(Button2)
+        ClientSize = New Size(359, 346)
+        Controls.Add(FinishSession)
+        Controls.Add(database)
+        Controls.Add(Label4)
+        Controls.Add(Label3)
+        Controls.Add(LogIn)
         Controls.Add(password)
         Controls.Add(username)
         Controls.Add(Label2)
         Controls.Add(Label1)
-        Controls.Add(Button1)
+        Controls.Add(ConnectionTest)
         Name = "Form1"
-        Text = "Form1"
+        Text = "Log In"
         ResumeLayout(False)
         PerformLayout()
     End Sub
 
-    Friend WithEvents Button1 As Button
+    Friend WithEvents ConnectionTest As Button
     Friend WithEvents Label1 As Label
     Friend WithEvents Label2 As Label
     Friend WithEvents username As TextBox
     Friend WithEvents password As TextBox
-    Friend WithEvents Button2 As Button
+    Friend WithEvents LogIn As Button
+    Friend WithEvents Label3 As Label
+    Friend WithEvents Label4 As Label
+    Friend WithEvents database As TextBox
+    Friend WithEvents FinishSession As Button
 End Class

@@ -3,6 +3,14 @@
   "WorkspaceRootPath": "D:\\DevFiles\\IDE\\Rider Projects\\MySQL Connection Testing\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{A95A443F-E80E-4708-AD21-C7B00677A52D}|MySQL Connection Testing\\MySQL Connection Testing.vbproj|d:\\devfiles\\ide\\rider projects\\mysql connection testing\\mysql connection testing\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form",
+      "RelativeMoniker": "D:0:0:{A95A443F-E80E-4708-AD21-C7B00677A52D}|MySQL Connection Testing\\MySQL Connection Testing.vbproj|solutionrelative:mysql connection testing\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A95A443F-E80E-4708-AD21-C7B00677A52D}|MySQL Connection Testing\\MySQL Connection Testing.vbproj|d:\\devfiles\\ide\\rider projects\\mysql connection testing\\mysql connection testing\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
+      "RelativeMoniker": "D:0:0:{A95A443F-E80E-4708-AD21-C7B00677A52D}|MySQL Connection Testing\\MySQL Connection Testing.vbproj|solutionrelative:mysql connection testing\\form2.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{A95A443F-E80E-4708-AD21-C7B00677A52D}|MySQL Connection Testing\\MySQL Connection Testing.vbproj|d:\\devfiles\\ide\\rider projects\\mysql connection testing\\mysql connection testing\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}",
       "RelativeMoniker": "D:0:0:{A95A443F-E80E-4708-AD21-C7B00677A52D}|MySQL Connection Testing\\MySQL Connection Testing.vbproj|solutionrelative:mysql connection testing\\form1.vb||{2C015C70-C72C-11D0-88C3-00A0C9110049}"
     },
@@ -17,8 +25,8 @@
       "VerticalTabListWidth": 256,
       "DocumentGroups": [
         {
-          "DockedWidth": 265,
-          "SelectedChildIndex": 4,
+          "DockedWidth": 821,
+          "SelectedChildIndex": -1,
           "Children": [
             {
               "$type": "Bookmark",
@@ -35,31 +43,67 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c64b9c2-e352-428e-a56d-0ace190b99a6}"
-            },
+            }
+          ]
+        },
+        {
+          "DockedWidth": 745,
+          "SelectedChildIndex": 1,
+          "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Form1.vb",
-              "DocumentMoniker": "D:\\DevFiles\\IDE\\Rider Projects\\MySQL Connection Testing\\MySQL Connection Testing\\Form1.vb",
-              "RelativeDocumentMoniker": "MySQL Connection Testing\\Form1.vb",
-              "ToolTip": "D:\\DevFiles\\IDE\\Rider Projects\\MySQL Connection Testing\\MySQL Connection Testing\\Form1.vb*",
-              "RelativeToolTip": "MySQL Connection Testing\\Form1.vb*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAABDAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "Form2.vb",
+              "DocumentMoniker": "D:\\DevFiles\\IDE\\Rider Projects\\MySQL Connection Testing\\MySQL Connection Testing\\Form2.vb",
+              "RelativeDocumentMoniker": "MySQL Connection Testing\\Form2.vb",
+              "ToolTip": "D:\\DevFiles\\IDE\\Rider Projects\\MySQL Connection Testing\\MySQL Connection Testing\\Form2.vb",
+              "RelativeToolTip": "MySQL Connection Testing\\Form2.vb",
+              "ViewState": "AgIAAEQAAAAAAAAAAAAwwF4AAAAVAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-11-12T11:37:20.777Z",
+              "WhenOpened": "2024-11-15T11:48:11.273Z",
+              "IsPinned": true,
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
+              "Title": "Form2.vb [Design]",
+              "DocumentMoniker": "D:\\DevFiles\\IDE\\Rider Projects\\MySQL Connection Testing\\MySQL Connection Testing\\Form2.vb",
+              "RelativeDocumentMoniker": "MySQL Connection Testing\\Form2.vb",
+              "ToolTip": "D:\\DevFiles\\IDE\\Rider Projects\\MySQL Connection Testing\\MySQL Connection Testing\\Form2.vb [Design]",
+              "RelativeToolTip": "MySQL Connection Testing\\Form2.vb [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-15T11:48:06.854Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.vb",
+              "DocumentMoniker": "D:\\DevFiles\\IDE\\Rider Projects\\MySQL Connection Testing\\MySQL Connection Testing\\Form1.vb",
+              "RelativeDocumentMoniker": "MySQL Connection Testing\\Form1.vb",
+              "ToolTip": "D:\\DevFiles\\IDE\\Rider Projects\\MySQL Connection Testing\\MySQL Connection Testing\\Form1.vb",
+              "RelativeToolTip": "MySQL Connection Testing\\Form1.vb",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
+              "WhenOpened": "2024-11-17T13:45:24.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "Form1.vb [Design]",
               "DocumentMoniker": "D:\\DevFiles\\IDE\\Rider Projects\\MySQL Connection Testing\\MySQL Connection Testing\\Form1.vb",
               "RelativeDocumentMoniker": "MySQL Connection Testing\\Form1.vb",
-              "ToolTip": "D:\\DevFiles\\IDE\\Rider Projects\\MySQL Connection Testing\\MySQL Connection Testing\\Form1.vb [Design]*",
-              "RelativeToolTip": "MySQL Connection Testing\\Form1.vb [Design]*",
+              "ToolTip": "D:\\DevFiles\\IDE\\Rider Projects\\MySQL Connection Testing\\MySQL Connection Testing\\Form1.vb [Design]",
+              "RelativeToolTip": "MySQL Connection Testing\\Form1.vb [Design]",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003361|",
-              "WhenOpened": "2024-11-12T11:32:25.599Z",
+              "WhenOpened": "2024-11-17T13:45:14.744Z",
               "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
             }
           ]
         }

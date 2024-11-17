@@ -62,3 +62,5 @@ C:\Users\ITECC052024\source\repos\MySQL-Connection-Testing\MySQL Connection Test
 C:\Users\ITECC052024\source\repos\MySQL-Connection-Testing\MySQL Connection Testing\obj\Debug\net8.0-windows\MySQL Connection Testing.genruntimeconfig.cache
 C:\Users\ITECC052024\source\repos\MySQL-Connection-Testing\MySQL Connection Testing\obj\Debug\net8.0-windows\ref\MySQL Connection Testing.dll
 C:\Users\ITECC052024\source\repos\MySQL-Connection-Testing\MySQL Connection Testing\obj\Debug\net8.0-windows\MySQL_Connection_Testing.Form2.resources
+D:\DevFiles\IDE\Rider Projects\MySQL Connection Testing\MySQL Connection Testing\obj\Debug\net8.0-windows\MySQL_Connection_Testing.Form2.resources
+D:\DevFiles\IDE\Rider Projects\MySQL Connection Testing\MySQL Connection Testing\obj\Debug\net8.0-windows\MySQL Connection Testing.sourcelink.json
