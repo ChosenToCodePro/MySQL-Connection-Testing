@@ -64,3 +64,36 @@ C:\Users\ITECC052024\source\repos\MySQL-Connection-Testing\MySQL Connection Test
 C:\Users\ITECC052024\source\repos\MySQL-Connection-Testing\MySQL Connection Testing\obj\Debug\net8.0-windows\MySQL_Connection_Testing.Form2.resources
 D:\DevFiles\IDE\Rider Projects\MySQL Connection Testing\MySQL Connection Testing\obj\Debug\net8.0-windows\MySQL_Connection_Testing.Form2.resources
 D:\DevFiles\IDE\Rider Projects\MySQL Connection Testing\MySQL Connection Testing\obj\Debug\net8.0-windows\MySQL Connection Testing.sourcelink.json
+C:\Users\ITECC052024\Source\Repos\MySQL-Connection-Testing-2\MySQL Connection Testing\bin\Debug\net8.0-windows\MySQL Connection Testing.exe
+C:\Users\ITECC052024\Source\Repos\MySQL-Connection-Testing-2\MySQL Connection Testing\bin\Debug\net8.0-windows\MySQL Connection Testing.deps.json
+C:\Users\ITECC052024\Source\Repos\MySQL-Connection-Testing-2\MySQL Connection Testing\bin\Debug\net8.0-windows\MySQL Connection Testing.runtimeconfig.json
+C:\Users\ITECC052024\Source\Repos\MySQL-Connection-Testing-2\MySQL Connection Testing\bin\Debug\net8.0-windows\MySQL Connection Testing.dll
+C:\Users\ITECC052024\Source\Repos\MySQL-Connection-Testing-2\MySQL Connection Testing\bin\Debug\net8.0-windows\MySQL Connection Testing.pdb
+C:\Users\ITECC052024\Source\Repos\MySQL-Connection-Testing-2\MySQL Connection Testing\bin\Debug\net8.0-windows\BouncyCastle.Cryptography.dll
+C:\Users\ITECC052024\Source\Repos\MySQL-Connection-Testing-2\MySQL Connection Testing\bin\Debug\net8.0-windows\Google.Protobuf.dll
+C:\Users\ITECC052024\Source\Repos\MySQL-Connection-Testing-2\MySQL Connection Testing\bin\Debug\net8.0-windows\K4os.Compression.LZ4.dll
+C:\Users\ITECC052024\Source\Repos\MySQL-Connection-Testing-2\MySQL Connection Testing\bin\Debug\net8.0-windows\K4os.Compression.LZ4.Streams.dll
+C:\Users\ITECC052024\Source\Repos\MySQL-Connection-Testing-2\MySQL Connection Testing\bin\Debug\net8.0-windows\K4os.Hash.xxHash.dll
+C:\Users\ITECC052024\Source\Repos\MySQL-Connection-Testing-2\MySQL Connection Testing\bin\Debug\net8.0-windows\MySql.Data.dll
+C:\Users\ITECC052024\Source\Repos\MySQL-Connection-Testing-2\MySQL Connection Testing\bin\Debug\net8.0-windows\System.IO.Pipelines.dll
+C:\Users\ITECC052024\Source\Repos\MySQL-Connection-Testing-2\MySQL Connection Testing\bin\Debug\net8.0-windows\ZstdSharp.dll
+C:\Users\ITECC052024\Source\Repos\MySQL-Connection-Testing-2\MySQL Connection Testing\bin\Debug\net8.0-windows\runtimes\win-x64\native\comerr64.dll
+C:\Users\ITECC052024\Source\Repos\MySQL-Connection-Testing-2\MySQL Connection Testing\bin\Debug\net8.0-windows\runtimes\win-x64\native\gssapi64.dll
+C:\Users\ITECC052024\Source\Repos\MySQL-Connection-Testing-2\MySQL Connection Testing\bin\Debug\net8.0-windows\runtimes\win-x64\native\k5sprt64.dll
+C:\Users\ITECC052024\Source\Repos\MySQL-Connection-Testing-2\MySQL Connection Testing\bin\Debug\net8.0-windows\runtimes\win-x64\native\krb5_64.dll
+C:\Users\ITECC052024\Source\Repos\MySQL-Connection-Testing-2\MySQL Connection Testing\bin\Debug\net8.0-windows\runtimes\win-x64\native\krbcc64.dll
+C:\Users\ITECC052024\Source\Repos\MySQL-Connection-Testing-2\MySQL Connection Testing\obj\Debug\net8.0-windows\MySQL Connection Testing.vbproj.AssemblyReference.cache
+C:\Users\ITECC052024\Source\Repos\MySQL-Connection-Testing-2\MySQL Connection Testing\obj\Debug\net8.0-windows\MySQL_Connection_Testing.Form1.resources
+C:\Users\ITECC052024\Source\Repos\MySQL-Connection-Testing-2\MySQL Connection Testing\obj\Debug\net8.0-windows\MySQL_Connection_Testing.Form2.resources
+C:\Users\ITECC052024\Source\Repos\MySQL-Connection-Testing-2\MySQL Connection Testing\obj\Debug\net8.0-windows\MySQL Connection Testing.vbproj.GenerateResource.cache
+C:\Users\ITECC052024\Source\Repos\MySQL-Connection-Testing-2\MySQL Connection Testing\obj\Debug\net8.0-windows\MySQL Connection Testing.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ITECC052024\Source\Repos\MySQL-Connection-Testing-2\MySQL Connection Testing\obj\Debug\net8.0-windows\MySQL Connection Testing.AssemblyInfoInputs.cache
+C:\Users\ITECC052024\Source\Repos\MySQL-Connection-Testing-2\MySQL Connection Testing\obj\Debug\net8.0-windows\MySQL Connection Testing.AssemblyInfo.vb
+C:\Users\ITECC052024\Source\Repos\MySQL-Connection-Testing-2\MySQL Connection Testing\obj\Debug\net8.0-windows\MySQL Connection Testing.vbproj.CoreCompileInputs.cache
+C:\Users\ITECC052024\Source\Repos\MySQL-Connection-Testing-2\MySQL Connection Testing\obj\Debug\net8.0-windows\MySQL Connection Testing.sourcelink.json
+C:\Users\ITECC052024\Source\Repos\MySQL-Connection-Testing-2\MySQL Connection Testing\obj\Debug\net8.0-windows\MySQL Co.0F18D3C2.Up2Date
+C:\Users\ITECC052024\Source\Repos\MySQL-Connection-Testing-2\MySQL Connection Testing\obj\Debug\net8.0-windows\MySQL Connection Testing.dll
+C:\Users\ITECC052024\Source\Repos\MySQL-Connection-Testing-2\MySQL Connection Testing\obj\Debug\net8.0-windows\refint\MySQL Connection Testing.dll
+C:\Users\ITECC052024\Source\Repos\MySQL-Connection-Testing-2\MySQL Connection Testing\obj\Debug\net8.0-windows\MySQL Connection Testing.pdb
+C:\Users\ITECC052024\Source\Repos\MySQL-Connection-Testing-2\MySQL Connection Testing\obj\Debug\net8.0-windows\MySQL Connection Testing.genruntimeconfig.cache
+C:\Users\ITECC052024\Source\Repos\MySQL-Connection-Testing-2\MySQL Connection Testing\obj\Debug\net8.0-windows\ref\MySQL Connection Testing.dll

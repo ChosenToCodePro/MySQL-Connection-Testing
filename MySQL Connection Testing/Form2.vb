@@ -8,7 +8,6 @@ Public Class Form2
     Private Sub Button1_Click(sender As Object, e As EventArgs) Handles Button1.Click
         Me.Close()
         Form1.Show()
-        Form1.LogIn.Enabled = False
     End Sub
     Private Sub Btn_Save_Click(sender As Object, e As EventArgs) Handles Btn_Save.Click
         c = New MySqlConnection()
@@ -120,7 +119,23 @@ Public Class Form2
             MessageBox.Show("Something went wrong on Our Side. Sorry :( " & ex.Message)
         End Try
     End Sub
+    Private Sub NameList_TextChanged(sender As Object, e As EventArgs) Handles NameListDrop.TextChanged
+        c = New MySqlConnection()
+        c.ConnectionString = $"server=127.0.0.1;userid={[Mod].Username};password={[Mod].Password};database={[Mod].Database}"
+        Dim rd As MySqlDataReader, input As String = NameListDrop.Text
 
+        Try
+            c.Open()
+            q = $"SELECT * FROM {[Mod].Database}.users WHERE Name = '{NameListDrop.Text}' "
+            comd = New MySqlCommand(q, c)
+            rd = comd.ExecuteReader
+            While rd.Read
+
+            End While
+        Catch ex As Exception
+
+        End Try
+    End Sub
     Private Sub NameList_SelectedIndexChanged(sender As Object, e As EventArgs) Handles NameListDrop.SelectedIndexChanged
         c = New MySqlConnection()
         c.ConnectionString = $"server=127.0.0.1;userid={[Mod].Username};password={[Mod].Password};database={[Mod].Database}"
@@ -163,5 +178,9 @@ Public Class Form2
         Catch ex As Exception
             MessageBox.Show("Not sure if that person is Available. :( " & ex.Message)
         End Try
+    End Sub
+
+    Private Sub EndSession_Click(sender As Object, e As EventArgs) Handles EndSession.Click
+        Application.Exit()
     End Sub
 End Class
