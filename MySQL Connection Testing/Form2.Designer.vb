@@ -36,6 +36,7 @@ Partial Class Form2
         Btn_Delete = New Button()
         NameListDrop = New ComboBox()
         NameListBox = New ListBox()
+        EndSession = New Button()
         SuspendLayout()
         ' 
         ' Button1
@@ -169,11 +170,22 @@ Partial Class Form2
         NameListBox.Size = New Size(215, 202)
         NameListBox.TabIndex = 13
         ' 
+        ' EndSession
+        ' 
+        EndSession.Font = New Font("Poppins", 9F)
+        EndSession.Location = New Point(402, 305)
+        EndSession.Name = "EndSession"
+        EndSession.Size = New Size(101, 29)
+        EndSession.TabIndex = 14
+        EndSession.Text = "End Session"
+        EndSession.UseVisualStyleBackColor = True
+        ' 
         ' Form2
         ' 
         AutoScaleDimensions = New SizeF(7F, 15F)
         AutoScaleMode = AutoScaleMode.Font
         ClientSize = New Size(529, 372)
+        Controls.Add(EndSession)
         Controls.Add(NameListBox)
         Controls.Add(NameListDrop)
         Controls.Add(Btn_Delete)
@@ -208,4 +220,5 @@ Partial Class Form2
     Friend WithEvents Btn_Delete As Button
     Friend WithEvents NameListDrop As ComboBox
     Friend WithEvents NameListBox As ListBox
+    Friend WithEvents EndSession As Button
 End Class
