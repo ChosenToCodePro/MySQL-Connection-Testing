@@ -15,7 +15,7 @@ Imports System.Reflection
 <Assembly: System.Reflection.AssemblyCompanyAttribute("MySQL Connection Testing"),  _
  Assembly: System.Reflection.AssemblyConfigurationAttribute("Debug"),  _
  Assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0"),  _
- Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+823998dc19a6749c8463683adc3bc0a8356ed10b"),  _
+ Assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+19757a9c848c99670d6993a1748da1363a620ef9"),  _
  Assembly: System.Reflection.AssemblyProductAttribute("MySQL Connection Testing"),  _
  Assembly: System.Reflection.AssemblyTitleAttribute("MySQL Connection Testing"),  _
  Assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0"),  _
