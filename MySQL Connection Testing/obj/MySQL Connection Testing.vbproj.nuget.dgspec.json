@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\ITECC052024\\Source\\Repos\\MySQL-Connection-Testing-2\\MySQL Connection Testing\\MySQL Connection Testing.vbproj": {}
+    "D:\\DevFiles\\IDE\\Rider Projects\\MySQL Connection Testing\\MySQL Connection Testing\\MySQL Connection Testing.vbproj": {}
   },
   "projects": {
-    "C:\\Users\\ITECC052024\\Source\\Repos\\MySQL-Connection-Testing-2\\MySQL Connection Testing\\MySQL Connection Testing.vbproj": {
+    "D:\\DevFiles\\IDE\\Rider Projects\\MySQL Connection Testing\\MySQL Connection Testing\\MySQL Connection Testing.vbproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\ITECC052024\\Source\\Repos\\MySQL-Connection-Testing-2\\MySQL Connection Testing\\MySQL Connection Testing.vbproj",
+        "projectUniqueName": "D:\\DevFiles\\IDE\\Rider Projects\\MySQL Connection Testing\\MySQL Connection Testing\\MySQL Connection Testing.vbproj",
         "projectName": "MySQL Connection Testing",
-        "projectPath": "C:\\Users\\ITECC052024\\Source\\Repos\\MySQL-Connection-Testing-2\\MySQL Connection Testing\\MySQL Connection Testing.vbproj",
-        "packagesPath": "C:\\Users\\ITECC052024\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\ITECC052024\\Source\\Repos\\MySQL-Connection-Testing-2\\MySQL Connection Testing\\obj\\",
+        "projectPath": "D:\\DevFiles\\IDE\\Rider Projects\\MySQL Connection Testing\\MySQL Connection Testing\\MySQL Connection Testing.vbproj",
+        "packagesPath": "C:\\Users\\ChosenProfile\\.nuget\\packages\\",
+        "outputPath": "D:\\DevFiles\\IDE\\Rider Projects\\MySQL Connection Testing\\MySQL Connection Testing\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\ITECC052024\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\ChosenProfile\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -42,9 +42,8 @@
         "restoreAuditProperties": {
           "enableAudit": "true",
           "auditLevel": "low",
-          "auditMode": "all"
-        },
-        "SdkAnalysisLevel": "9.0.100"
+          "auditMode": "direct"
+        }
       },
       "frameworks": {
         "net8.0-windows7.0": {
@@ -74,7 +73,7 @@
               "privateAssets": "none"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.100/PortableRuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.403/PortableRuntimeIdentifierGraph.json"
         }
       }
     }
